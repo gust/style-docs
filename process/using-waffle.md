@@ -1,13 +1,17 @@
 #Using the waffle project management tool
 
 ##Adding a bug
+Create an issue either in github or on waffle including a descriptive title and reproduction steps, sample code, and the browser & version you were using when you encountered the bug (if relevant). Label the issue "bug" and "icebox" (or, in waffle, label it "bug" and make sure it appears in the "icebox" stage).
 
 ##Suggesting future work
+Similar to reporting a bug, add a card/issue for the work you'd like to see. Label it 'icebox' or be sure it comes up in the 'icebox' stage. Add one of the type labels if it makes sense.
 
 ##Grouping work into releases
+As suggested work accumulates, it may be worthwhile to group logically related work into releases that can be completed as a unified venture of work. Consult with 
+Foundations leadership, then create a github milestone to represent the release, then add the appropriate work to that milestone.
 
 ##Tracking your work in flight
-
+As you pick up and complete work, be sure to move it to the appropriate stage as you go through the process of completing it. Stages are represented by labels in github, and columns on the waffle platform, and their meaning is defined below.
 
 ##Labels and their meaning
 ###Stages (blue, mostly)
