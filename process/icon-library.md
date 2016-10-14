@@ -14,6 +14,8 @@
   - the 'outline' class should be applied to elements that may be displayed as either a simple outline, or with a fill of the same or a different color.
   - the 'shape' class should be applied to elements that should always be filled.
   - a good example is the 'lock-closed' icon. The box of the padlock is an outline, the bolt is a line, and the keyhole is a shape.
+- If there is more than one element in an icon, each should have a unique id class beginning with 'shape' 'line' or 'outline'. For example, in the lock icon, the classes will be 'shape shape-keyhole', 'outline outline-pad', 'line line-bolt'. 
+  This ensures that individual elements can be targeted with css.
 
 ##Adding a symbol
 - Create the svg code you'd like to use (you only want the 'guts' of the svg, so do not include the <svg> and </svg> tags)
