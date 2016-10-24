@@ -1,1 +1,1 @@
-placeholder
+Icon documentation will be displayed here
