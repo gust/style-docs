@@ -20,7 +20,6 @@
 ##Adding a symbol
 - Create the svg code you'd like to use (you only want the 'guts' of the svg, so do not include the <svg> and </svg> tags)
 - Add your code to a file in source/components/icons/symbols/ and name it for the concept that the icon is intended to represent, _not_ what the icon looks like.
-- Add the name of your icon to icons.json in the source/styleguide/components.
 - Clear the symbol or symbols you'd like to add with Jun.
 
 ##Adding a frame
